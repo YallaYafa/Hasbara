@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <meta charset="utf-8">
+    <title>Praca magisterska</title>
+        <style>
+            #container
+            {
+                width: 1300px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            #logo
+            {
+                background-color: black;
+                color: white;
+                text-align: center;
+                padding: 15px;
+            }
+
+            #nav
+            {
+            float:left;
+            background-color: gray;
+            width: 160px;
+            min-height: 620px;
+            padding: 10px;
+            }
+
+            #content
+            {
+               float:left;
+                background-color: darkblue;
+                color: white;
+                padding: 20px;
+                width: 940px;
+            }
+
+            #ad
+            {
+                float: left;
+                background-color: darkblue;
+                width: 120px;
+                min-height: 620px;
+                padding: 10px;
+            }
+
+            #footer
+            {
+              clear:both;
+            }
+
+        </style>
+</head>
+   
+<body>
+    <div id="container">
+  
+       <div id="logo">
+       <h1>Praca magisterska</h1>
+       </div>
+    
+            <div id="nav">	
+            <ul>
+            <li><a href="Rozdzia%C5%82%201.html"></li>
+            <img alt="Rozdział 1."/></a>
+
+            <li><a href="Rozdzia%C5%82%202.html"></li>
+            <img alt="Rozdział 2."/>
+
+            <li><a href="Rozdzia%C5%82%203.html"></li>
+            <img alt="Rozdział 3."/></a></li>
+
+            <li><a href="Rozdzia%C5%82%204.html"></li>
+            <img alt="Rozdział 4."/></a></li>
+            </ul>
+            </div>
+    
+                <div id="content">
+                
+                <h1>Znajdź mnie:</h1>
+                <p>
+                <ul>
+                <li><button style='font-size:24px'><a href="https://www.linkedin.com/in/anna-wolska-35895916a/">Anna Wolska na LinkedIn<a/></a><i class='fab fa-linkedin'></i></button></li>
+                <li><button style='font-size:24px'><a href="https://www.facebook.com/a.wolska.polska">Anna Wolska na Facebooku<a/></a><i class='fab fa-linkedin'></i></button></li>
+               </ul>
+               </p>
+    
+                    
+        
+                
+                <h1>HASBARA, <br/>
+                 CZYLI DYPLOMACJA PUBLICZNA IZRAELA <br/>
+                – JEJ ROLA I WPŁYW NA STOSUNKI MIĘDZYNARODOWE</h1> 
+                
+                <img src="socialmedia-mn2s.jpg">
+                
+                <p>		
+                Tematem niniejszej pracy jest hasbara oraz jej rola i wpływ na stosunki międzynarodowe. Hasbara (heb. הסברה ) jest określeniem dyplomacji publicznej Izraela. Dla stosunkowo młodego państwa, które do tej pory nie ma relacji dyplomatycznych z wieloma krajami, dyplomacja publiczna stanowi narzędzie, za pomocą którego Izrael chce spróbować nawiązać stosunki ponad głowami rządów państw. Wybór takiego tematu wynikał zarówno z mojego zainteresowania Izraelem, jak i mediami społecznościowymi. Uważam, że w obecnych czasach Internet czyni z każdego człowieka świadomego lub nieświadomego aktora dyplomacji publicznej, dlatego warto pokazać schematy jego funkcjonowania. Przedział czasowy ujęty w pracy zaczyna się wraz z powstaniem państwa Izrael, jednak ze względu na badanie hasbary w Internecie, nacisk jest położony na okres współczesny. <br/>
+
+
+                <p>	
+                Anglojęzyczna literatura do mojej pracy magisterskiej jest dosyć bogata. Polskojęzyczna literatura pojawiła się wyłącznie w rozdziale poświęconym podstawowym informacjom nt. dyplomacji publicznej. Korzystałam również z hebrajskojęzycznych stron internetowych. Ze względu na częściowo badawczy charakter pracy to właśnie źródła internetowe stanowią jej główne źródło. Korzystałam z takich rodzajów źródeł internetowych jak np. artykuły naukowe i internetowe czy wydania prasy izraelskiej. Jednak większość bibliografii internetowej zajmują media społecznościowe, do których należy Facebook, Twitter, Instagram i Youtube. Dzięki nim mogłam zbadać aktywność aktorów. W celu zbadania ich popularności, posłużyłam się platformą Google Trends, która pokazuje popularność tematów wyszukiwanych w Internecie. <br/>
+                </p>
+
+                <p>	
+                W tej pracy założyłam sobie za cel przedstawienie nieznanego dotąd w Polsce rodzaju dyplomacji publicznej, jaką jest hasbara. Ponadto zamierzam zbadać wpływ, jaki ona wywiera na stosunki międzynarodowe Izraela. <br/>
+                
+                <p>
+                <img src="Tabela.png">
+                </p>
+                </div>
+       
+    
+                <div id="ad">
+                <img src="ads.png"> <br>
+                <img src="ads.png">
+                </div>
+    
+                <div id="footer">
+                Poems by Anna Wolska
+                </div>
+     
+</div>   
+    	
+		
+</body>
+</html>
