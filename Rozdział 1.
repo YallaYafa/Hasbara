@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <meta charset="utf-8">
+    <title>Rozdział 1.</title>
+    
+    <style>
+        #container
+        {
+            width: 1300px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        #logo
+        {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        
+        #nav
+        {
+         float:left;
+        background-color: gray;
+        width: 160px;
+        min-height: 620px
+        padding: 10px;
+        }
+        
+        #content
+        {
+           float:left;
+            background-color: darkblue;
+             color: white;
+            padding: 20px;
+            width: 940px;
+        }
+        
+        #ad
+        {
+            float: left;
+            background-color: darkblue;
+            width: 160px;
+            min-height: 620px
+            padding: 10px;
+            
+        }
+        
+        #footer
+        {
+          clear:both;
+        }
+        
+    </style>
+    </head>
+   
+    <body>
+    
+    <div id="container">
+  
+   <div id="logo">
+   <h1>Rozdział 1.</h1>
+   </div>
+    
+    <div id="nav">	
+		<ul>
+		<li><a href="Rozdzia%C5%82%201.html"></li>
+		<img alt="Rozdział 1."/></a>
+		
+		<li><a href="Rozdzia%C5%82%202.html"></li>
+		<img alt="Rozdział 2."/>
+     
+      <li><a href="Rozdzia%C5%82%203.html"></li>
+       <img alt="Rozdział 3."/></a></li>
+       
+       <li><a href="Rozdzia%C5%82%204.html"></li>
+       <img alt="Rozdział 4."/></a></li>
+       </ul>
+    </div>
+    
+    <div id="content">
+    
+    <h1>Definicja dyplomacji publicznej</h1> 
+    <h2>Tradycyjna i współczesna dyplomacja publiczna</h2>
+    
+    <h3>Pojęcie dyplomacji cyfrowej</h3>
+    
+<p>    
+Pojęcie dyplomacji istnieje od czasów starożytnych i dotyczy dyplomacji w znaczeniu tradycyjnym – aktorami były władze państw, które kierowały środowiskiem międzynarodowym w sposób tajny, aby osiągnąć cel, którym było narzucenie własnych idei i ostatecznie zwycięstwo. Taki rodzaj dyplomacji dominował aż do lat 60. XX w., kiedy pojawiła się nowa koncepcja, która dopuściła do głosu również aktorów pozarządowych. Nowa dyplomacja została nazwana dyplomacją publiczną.
+</p>
+
+<p>
+<img src="Tradycyjna%20vs.%20Publiczna.png"
+</p>
+
+<p>	
+Jeden z czołowych badaczy dyplomacji publicznej - Nicholas J. Cull podjął się zdefiniowania dyplomacji tradycyjnej i publicznej, przy czym podkreślił główną różnicę występującą między tymi pojęciami:
+		
+Dyplomacja tradycyjna jest międzynarodową próbą zarządzania środowiskiem międzynarodowym poprzez zaangażowanie z innym podmiotem międzynarodowym.
+Dyplomacja publiczna jest międzynarodową próbą zarządzania środowiskiem międzynarodowym poprzez zaangażowanie z zagranicznymi odbiorcami.
+</p>	
+  
+<p>	 
+<img src="Wykres%20-%20dyplomacja%20publiczna.png">
+</p>
+    
+<p>
+Wraz z pojęciem nowej dyplomacji publicznej pojawia się również postać nowego dyplomaty. Taki dyplomata nie potrzebował akredytacji władz i odpowiedniego przeszkolenia, a jedynie odpowiedniego sprzętu, podłączonego do sieci internetowej. <br> 
+Do przykładów nowych dyplomatów można zaliczyć m.in. Waela Ghonima, który podczas tzw. Arabskiej Wiosny w 2010 r. założył i prowadził na Facebooku stronę „We Are All Khaled Said” jako wyraz sprzeciwu dla ówczesnego prezydenta Egiptu. W poczuciu spełnienia obowiązku obywatelskiego podjął się informowania odbiorców z kraju i zagranicy o tym, co się dzieje w pogrążonym wojną domową Egipcie. W tym okresie jego relacje często spotykały się z większym odbiorem niż te ze strony dyplomatów w starym tego słowa znaczeniu.
+</p>
+
+<p>  
+Można uznać, że dyplomacja publiczna stanowi hybrydę dyplomacji i technologii cyfrowej. Polega to na tym, że z jednej strony wymusza na państwach wdrażanie nowych praktyk z zakresu dyplomacji. Z drugiej strony pokazuje państwom ogromny potencjał i nowe sposoby osiągania celów polityki zagranicznej w cyfrowym systemie międzynarodowym, który podlega ciągłym przemianom11. Przewiduje się, że w nadchodzących latach zasięg, objętość i intensywność globalnej łączności danych znacznie wzrośnie. Dlatego również dyplomacja publiczna, jako praktyka budowania pomostów z zagranicznymi odbiorcami, będzie dostosowywać się do zmieniających się warunków i dalej ewoluować w erze cyfrowej.
+</p>
+
+<h2>Zalety dyplomacji cyfrowej</h2>
+<p>
+Korzystanie z dyplomacji cyfrowej niesie ze sobą wiele zalet. Dyplomacja cyfrowa sprawia, że władze mogą łatwiej dotrzeć do młodego pokolenia. Ponadto nowe technologie umożliwiają:
+
+<ul>
+<li> wsparcie dla dwustronnej komunikacji;
+<li> utworzenie nowych możliwości komunikowania;
+<li> rozszerzenie sieci dyplomatycznych;
+<li> budowanie strategicznych relacji;
+<li> uwolnienie się dyplomatów z ograniczonej sieci elit;
+<li> zwiększenie poczucia przejrzystości;
+<li> udział społeczeństwa w wydarzeniach.
+</ul>
+</p>
+
+<p>
+Do zalet dyplomacji cyfrowej można zaliczyć nie tylko takie o charakterze społecznym, ale również środowiskowym i ekonomicznym. Współczesne narzędzia umożliwiają zdalną komunikację, więc dzięki temu można zaobserwować zmniejszenie emisji dwutlenku węgla i produkcji papieru. W rezultacie przyczyniają się do zmniejszenia zarówno kosztów środowiskowych, jak i finansowych.
+</p>
+
+<h3>Wady dyplomacji cyfrowej</h3>
+<p>
+Dyplomacja cyfrowa niesie ze sobą nie tylko korzyści, ale również wyzwania, które wynikają z problemów i zagrożeń, jakie niosą ze sobą nowe technologie i Internet. Najważniejszym z nich okazuje się cyberbezpieczeństwo, czyli niebezpieczeństwo wycieku informacji i włamania się na konta społecznościowe. Zagrożenia sieciowe wpływają nie tylko na ochronę kont pojedynczych obywateli na serwisach społecznościowych, ale również na bezpieczeństwo państw, gdy dochodzi do wycieku informacji objętych tajemnicą państwową. Do innych wyzwań dla e-dyplomacji można zaliczyć również zagadnienia takie jak:
+
+<ul>
+<li> utrata przez dyplomatów monopolu na informacje;
+<li> potrzeba umiejętnego korzystania z narzędzi dyplomacji cyfrowej;
+<li> brak ustalonego protokołu;
+<li> możliwość zachowania anonimowość w sieci;
+<li> utrata przez dyplomatów monopolu na udzielanie informacji.
+</ul>
+</p>
+    </div>
+    
+    <div id="ad">
+    <img src="ads.png"> <br>
+    <img src="ads.png"> <br>
+    <img src="ads.png">
+    
+    </div>
+    
+    <div id="footer">
+    Poems by Anna Wolska
+    </div>
+     
+ </div>   
+		
+    </body>
+</html>
