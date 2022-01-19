@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <meta charset="utf-8">
+    <title>Rozdział 3.</title>
+    
+    <style>
+        #container
+        {
+            width: 1300px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        #logo
+        {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        
+        #nav
+        {
+         float:left;
+        background-color: gray;
+        width: 160px;
+        min-height: 620px
+        padding: 10px;
+        }
+        
+        #content
+        {
+           float:left;
+            background-color: darkblue;
+             color: white;
+            padding: 20px;
+            width: 940px;
+        }
+        
+        #ad
+        {
+            float: left;
+            background-color: darkblue;
+            width: 160px;
+            min-height: 620px
+            padding: 10px;
+            
+        }
+        
+        #footer
+        {
+          clear:both;
+        }
+        
+    </style>
+    </head>
+   
+    <body>
+    
+    <div id="container">
+  
+   <div id="logo">
+   <h1>Rozdział 3.</h1>
+   </div>
+    
+    <div id="nav">	
+		<ul>
+		<li><a href="Rozdzia%C5%82%201.html"></li>
+		<img alt="Rozdział 1."/></a>
+		
+		<li><a href="Rozdzia%C5%82%202.html"></li>
+		<img alt="Rozdział 2."/>
+     
+      <li><a href="Rozdzia%C5%82%203.html"></li>
+       <img alt="Rozdział 3."/></a></li>
+       
+       <li><a href="Rozdzia%C5%82%204.html"></li>
+       <img alt="Rozdział 4."/></a></li>
+       </ul>
+    </div>
+    
+    <div id="content">
+    
+    <h1>HASBARA W PRAKTYCE</h1>
+    
+<p>   
+Internet pełni szczególnie ważną funkcję dla Palestyńczyków, którzy funkcjonują
+w Izraelu jako rozproszona diaspora. Media społecznościowe łączą, często pozbawione swobody przemieszczania się palestyńskie społeczeństwo. Działania podejmowane przy realizacji dyplomacji publicznej Izraela są zależne od aktywności strony palestyńskiej.
+Dlatego w poniższym podrozdziale zestawiono trzy podmioty, które można porównać do aktorów palestyńskiego odpowiednika hasbary.
+Najbardziej znaną organizacją, która zajmuje się dyplomacją publiczną Palestyny jest wspomniany w poprzednim rozdziale BDS (Boycott, Divestment, Sanctions). W nazwie ruchu zawarte są najważniejsze cele, którymi jest bojkot, ogołocenie i sankcje. Dotyczą one
+Izraela, który dopuszcza się łamania praw człowieka oraz prawa międzynarodowego wobec ludności palestyńskiej. BDS prężnie działa w mediach społecznościowych. Działalność ruchu wspomagają różni artyści np. Carlos Latuff z Brazylii. Za pomocą swoich rysunków nawołuje on do bojkotu dóbr izraelskich, których zakup „wspiera apartheid”.
+</p> 
+
+<p>
+Ważną datą dla organizacji jest 15 maja, czyli dzień niepodległości Izraela,
+nazywany przez Palestyńczyków „katastrofą” (arab. نكبة ). Zainspirowani rolą Facebooka podczas Arabskiej Wiosny w 2011 r. aktywiści BDS utworzyli stronę „Trzecia Intifada Palestyńska”, za pomocą której informowali świat o sytuacji w Palestynie i wzywali do wspólnego przemaszerowania pod granice z Izraelem. Odnieśli sukces, bo w tydzień udało im
+się uzyskać prawie 200 000 polubień. Jednak o ile internetowi bohaterowie Arabskiej Wiosny mogli liczyć na poparcie właścicieli Facebooka, to Palestyńczycy spotkali się z zamknięciem swojej strony. Działacze BDS często spotykają się z ograniczeniami ze strony Izraela, który
+widzi ich jako zagrożenie dla istnienia państwa żydowskiego. Przykładem restrykcji jest tzw. „ustawa antybojkotowa” uchwalona przez Sąd Najwyższy Izraela w 2015 r. Pozwala ona na rządową inwigilację organizacji antyizraelskich oraz umożliwia utworzenie list zagranicznych aktywistów, którzy zostają objęci zakazem wjazdu na teren Izraela. Takie listy powstają m.in.
+w Stanach Zjednoczonych. Dla BDS wrogiem jest również ONZ, która dawniej walczyła
+z apartheidem w Republice Południowej Afryki, ale nie reaguje na dyskryminację
+Palestyńczyków. 
+</p>
+
+<p> 
+Palestyński Instytut Dyplomacji Publicznej (The Palestinian Institute for Public Diplomacy – PIPD) jest niezależną organizacją pozarządową, kierowaną przez
+Palestyńczyków wywodzących się z sektora prywatnego, środowisk akademickich
+i społeczeństwa obywatelskiego. Celem jej działalności jest przedstawienie Palestyny w taki sposób, aby zwrócić uwagę świata na sytuację jej mieszkańców. Ponadto przedstawiciele PIPD skupiają się na przedstawieniu odbiorcom z zagranicy codzienności Palestyńczyków.
+W filmie pt. Hate Speech in Israeli Society twórcy przedstawili statystyki mówiące o tym, że w 2018 r. na izraelskich mediach społecznościowych było 474 250 postów, które podżegały do rasizmu lub mowy nienawiści wobec Palestyńczyków, co daje średnio 1 taki
+przypadek każdej minuty. Wyszczególniono, że treść postów głównie nawoływała do śmierci, podpaleń lub gwałtów na ludności palestyńskiej, ale żaden z autorów nienawistnych postów nie został pociągnięty do odpowiedzialności karnej. Natomiast inny przykład filmu
+pt. #ReclaimYourSpace wyróżnia się swoim przesłaniem. Występują w nim zarówno
+Palestyńczycy, jak i Izraelczycy. Wspólnie nawołują w nim do sprzeciwu wobec
+jakiejkolwiek formy nienawiści i tych, którzy je popierają/utrwalają. Położono nacisk na
+antysemityzm i islamofobię86.
+</p>
+
+<p> 
+PIPD zorganizowało społeczną kampanię fotograficzną w mediach społecznościowych, głównie na Instagramie. Polegała na opublikowaniu zdjęć Palestyny i jej mieszkańców oraz załączeniu hasztagu #MyPalestine, aby świat mógł zobaczyć ludzką stronę
+walki Palestyńczyków o wolność i podstawowe prawa. Wybrane zdjęcia zostały potem udostępnione na Instagramie PIPD87.
+Palestyńskie Centrum Informacyjne (The Palestinian Information Center – PIC)
+funkcjonuje inaczej niż wcześniej przedstawieni aktorzy dyplomacji publicznej Palestyny.
+Różnica polega na tym, że zgodnie z nazwą PIC jest centrum informacyjnym, a nie
+organizacją. Do zadań założonego w 1997 r. PIC należy dostarczanie czytelnikom relacji z wydarzeń palestyńskich. Strona internetowa PIC jest dostępna w ośmiu językach: arabskim, malajskim, urdu, perskim, tureckim, angielskim, francuskim i rosyjskim, więc jest adresowana nie tylko do Europejczyków, ale również do sympatyków z państw muzułmańskich. Celami Palestyńskiego Centrum Informacyjnego są:
+ przedstawienie wydarzeń palestyńskich z wiarygodnością i profesjonalizmem;
+ rozpowszechnianie świadomości społecznej na temat wszystkich aspektów
+kwestii palestyńskiej;
+ rzucenie światła na niezłomność narodu palestyńskiego i jego ciągłe cierpienie
+w wyniku okupacji;
+ ujawnienie spisków, które wylęgły się przeciwko narodowi palestyńskiemu
+i jego narodowym sprawom.
+</p>
+
+<p> 
+</p>
+
+<p> 
+</p>
+<p>    
+</p>
+   
+<p> 
+</p>
+   
+<p> 
+</p>
+   
+<p> 
+</p>
+   
+<p> 
+</p>
+    </div>
+    
+    <div id="ad">
+    <img src="ads.png"> <br>
+    <img src="ads.png"> <br>
+    <img src="ads.png">
+    
+    </div>
+    
+    <div id="footer">
+    Poems by Anna Wolska
+    </div>
+     
+ </div>   
+		
+    </body>
+</html>
