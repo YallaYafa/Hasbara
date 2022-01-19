@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Rozdział 2.</title>
+    
+        <style>
+            #container
+            {
+                width: 1300px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            #logo
+            {
+                background-color: black;
+                color: white;
+                text-align: center;
+                padding: 15px;
+            }
+
+            #nav
+            {
+             float:left;
+            background-color: gray;
+            width: 160px;
+            min-height: 620px
+            padding: 10px;
+            }
+
+            #content
+            {
+               float:left;
+                background-color: darkblue;
+                 color: white;
+                padding: 20px;
+                width: 940px;
+            }
+
+            #ad
+            {
+                float: left;
+                background-color: darkblue;
+                width: 160px;
+                min-height: 620px
+                padding: 10px;
+
+            }
+
+            #footer
+            {
+              clear:both;
+            }
+
+        </style>
+</head>
+   
+<body>
+    
+<div id="container">
+  
+<div id="logo">
+<h1>Rozdział 2.</h1>
+</div>
+    
+<div id="nav">	
+<ul>
+<li><a href="Rozdzia%C5%82%201.html"></li>
+<img alt="Rozdział 1."/></a>
+		
+<li><a href="Rozdzia%C5%82%202.html"></li>
+<img alt="Rozdział 2."/>
+     
+<li><a href="Rozdzia%C5%82%203.html"></li>
+<img alt="Rozdział 3."/></a></li>
+       
+<li><a href="Rozdzia%C5%82%204.html"></li>
+<img alt="Rozdział 4."/></a></li>
+</ul>
+</div>
+    
+<div id="content">
+    
+<h1>HASBARA W TEORII</h1>
+    
+<p> 
+1. Definicja hasbary - dyplomacji publicznej Izraela <br>
+2. Historia hasbary <br>
+3. Funkcjonowanie hasbary w teorii
+</p>
+   
+<p> 
+</p>
+   
+<p> 
+</p>
+   
+<p> 
+</p>
+   
+<p> 
+</p>
+</div>
+    
+<div id="ad">
+<img src="ads.png"> <br>
+<img src="ads.png"> <br>
+<img src="ads.png">    
+</div>
+    
+<div id="footer">
+Poems by Anna Wolska
+</div>
+     
+</div>   
+		
+</body>
+</html>
